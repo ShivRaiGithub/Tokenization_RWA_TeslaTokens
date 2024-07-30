@@ -1,3 +1,17 @@
+# About the project
+
+This is a project based on 'Tokenization of RWA' by Patrick Collins. Video link : https://www.youtube.com/watch?v=KNUchSEtQV0    
+It works with chainlink functions and alpaca in order to allow a user to mint and redeem dTSLA tokens which are the tokens based on Tesla stocks, which are available in user's alpaca account.
+
+
+
+## env
+```
+export ALPACA_API_KEY=
+export ALPACA_SECRET_KEY=
+```
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
